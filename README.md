@@ -1,9 +1,9 @@
 # Santa-Klaus
-Definição Geral:
-O cliente busca um sistema para o controle de dados de distribuição de correspondência entre setores hospitalares, contendo o tipo de encomenda, setor destinado a data de entrega e cadastro do funcionário para melhor segurança e eficiência. 
+-Definição Geral:
+- O cliente busca um sistema para o controle de dados de distribuição de correspondência entre setores hospitalares, contendo o tipo de encomenda, setor destinado a data - de entrega e cadastro do funcionário para melhor segurança e eficiência. 
 
 Funcionais:
-[RF001] O Sistema deve ter registrado o login de acesso do funcionário.
+- [RF001] O Sistema deve ter registrado o login de acesso do funcionário.
 [RF002] O Sistema deve ter uma interface de login.
 [RF003] O Sistema deve ter uma interface de uso.
 [RF004] O Sistema deve ter cadastrado todos os setores.
