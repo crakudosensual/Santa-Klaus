@@ -3,11 +3,13 @@
 -O cliente busca um sistema para o controle de dados de distribuição de correspondência entre setores hospitalares, contendo o tipo de encomenda, setor destinado a data -de entrega e cadastro do funcionário para melhor segurança e eficiência. 
 
 Funcionais:
-- [RF001] O Sistema deve ter registrado o login de acesso do funcionário.
+-  [RF001] O Sistema deve ter registrado o login de acesso do funcionário.
+- 
 -[RF002] O Sistema deve ter uma interface de login.
--[RF003] O Sistema deve ter uma interface de uso.
--[RF004] O Sistema deve ter cadastrado todos os setores.
--[RF005] O Sistema deve ter cadastrado o tipo de encomenda.
+
+- [RF003] O Sistema deve ter uma interface de uso.
+- [RF004] O Sistema deve ter cadastrado todos os setores.
+- [RF005] O Sistema deve ter cadastrado o tipo de encomenda.
 -[RF006] O Sistema deve ter cadastrado os cuidados da encomenda.
 -[RF007] O Sistema deve ter atalhos de acesso para funcionalidades em geral.
 -[RF008] O Sistema deve ser capaz de gerar uma notificação a respeito de O.S. pendentes.
@@ -20,14 +22,6 @@ Funcionais:
 
 Não funcionais:
 -[RF001] A interface deve ser organizada e detalhada.
--
--
-
-
 -[RF002] O Sistema deve ter resposta em 10 segundos.
--
-
-
-
 [RF003] O Sistema deve ser bloqueado em 5 minutos.
 - [RF004] O Sistema deve ter função de backup. 
