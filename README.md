@@ -20,6 +20,14 @@ Funcionais:
 
 Não funcionais:
 -[RF001] A interface deve ser organizada e detalhada.
+-
+-
+
+
 -[RF002] O Sistema deve ter resposta em 10 segundos.
--[RF003] O Sistema deve ser bloqueado em 5 minutos.
--[RF004] O Sistema deve ter função de backup. 
+-
+
+
+
+[RF003] O Sistema deve ser bloqueado em 5 minutos.
+- [RF004] O Sistema deve ter função de backup. 
